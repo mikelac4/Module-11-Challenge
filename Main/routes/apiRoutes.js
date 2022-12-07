@@ -1,4 +1,4 @@
-const router = require('express').router();
+const router = require('express').Router();
 const store = require('../db/store');
 
 // Responds with all notes in the database
