@@ -24,6 +24,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshot
 
+![note](https://user-images.githubusercontent.com/112447725/206324564-16c6f0bb-c5b2-4ebb-aeec-ba23061ac133.png)
 
 
 # Links
